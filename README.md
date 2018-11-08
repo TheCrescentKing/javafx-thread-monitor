@@ -1,3 +1,5 @@
-# CS313-Part_B
+# JavaFX ThreadMonitor
 
 ![Thread Monitor Screenshot](https://i.imgur.com/Hku1SAT.png)
+
+To run jar on Linux, install openjfx.
